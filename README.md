@@ -1,2 +1,2 @@
 # Eliquid-recipe-maker
-Useful tool for creating eliquid recipes, (work in progress)
+Useful tool for creating eliquid recipes.
